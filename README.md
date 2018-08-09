@@ -1,4 +1,4 @@
-# OPDS Specifications
+# # [![OPDS Logo](https://opds.io/img/logo.png)](https://opds.io)
 
 ## Stable
 
@@ -6,8 +6,8 @@
 
 ## Drafts
 
-- [OPDS 1.2](http://opds-community.github.io/workspace/opds-1.2)
-- [OPDS 2.0](http://opds-community.github.io/workspace/opds-2.0)
+- [OPDS 1.2](https://drafts.opds.io/opds-1.2)
+- [OPDS 2.0](https://drafts.opds.io/opds-2.0)
 
 ## Previous releases
 
