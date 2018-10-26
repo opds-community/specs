@@ -1,4 +1,5 @@
 [![OPDS Logo](https://opds.io/img/logo.png)](https://opds.io)
+
 # OPDS Specifications
 
 [OPDS (Open Publication Distribution System)](https://opds.io) is a family of specifications dedicated to the distribution of digital publications.
@@ -11,8 +12,7 @@ The historical version of OPDS (1.x) is based on [Atom](https://tools.ietf.org/h
 
 ## Drafts
 
-- [OPDS 1.2](https://drafts.opds.io/opds-1.2)
-- [OPDS 2.0](https://drafts.opds.io/opds-2.0)
+- [See the list of active drafts](https://drafts.opds.io)
 
 ## Previous releases
 
