@@ -8,7 +8,7 @@ The historical version of OPDS (1.x) is based on [Atom](https://tools.ietf.org/h
 
 ## Stable
 
-- [OPDS 1.1](opds-1.1.html) (June 27th, 2011)
+- [OPDS 1.2](opds-1.2) (November 11th, 2018)
 
 ## Drafts
 
@@ -16,5 +16,6 @@ The historical version of OPDS (1.x) is based on [Atom](https://tools.ietf.org/h
 
 ## Previous releases
 
+- [OPDS 1.1](opds-1.1.html) (June 27th, 2011)
 - [OPDS 1.0](opds-1.0.html) (August 30th, 2010)
 - [OPDS 0.9](opds-0.9.html) (May 25th, 2010)
