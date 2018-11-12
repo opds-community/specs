@@ -426,9 +426,9 @@ In an [[OpenSearch](http://www.opensearch.org/Specifications/OpenSearch/1.1)] de
 
 An OPDS Catalog <em class="rfc">may</em> also provide more advanced possibilities for its search endpoint, using one or more fully qualified parameters from the Atom namespace such as:
 
-- atom:author
-- atom:contributor
-- atom:title
+- `atom:author`
+- `atom:contributor`
+- `atom:title`
 
 
 OPDS Catalog Feed Documents <em class="rfc">may</em> include elements from the [[OpenSearch](http://www.opensearch.org/Specifications/OpenSearch/1.1)] namespace such as `opensearch:totalResults` or `opensearch:itemsPerPage` in [[OpenSearch](http://www.opensearch.org/Specifications/OpenSearch/1.1)] responses.
