@@ -47,7 +47,6 @@ This document specifies version 1.2 of the OPDS Catalog specification.
   * [1.1. Introduction](#11-introduction)
   * [1.2. Terminology](#12-terminology)
   * [1.3. Conformance Statements](#13-conformance-statements)
-  * [1.4. RELAX NG Schema](#14-relax-ng-schema)
 - [2. OPDS Catalog Feed Documents](#2-opds-catalog-feed-documents)
   * [2.1. OPDS Catalog Root](#21-opds-catalog-root)
   * [2.2. Navigation Feeds](#22-navigation-feeds)
