@@ -2,7 +2,7 @@
 
 [OPDS (Open Publication Distribution System)](https://opds.io) is a family of specifications dedicated to the distribution of digital publications.
 
-The historical version of OPDS (1.x) is based on [Atom](https://tools.ietf.org/html/rfc4287) and [Dublin Core](http://dublincore.org/specifications/), while the current draft (2.0) is based on [JSON-LD](https://www.w3.org/TR/json-ld/) and [schema.org](https://schema.org).
+[The historical version of OPDS](opds-1.2) (1.x) is based on [Atom](https://tools.ietf.org/html/rfc4287) and [Dublin Core](http://dublincore.org/specifications/), while [the current draft](https://drafts.opds.io/opds-2.0) (2.0) is based on [JSON-LD](https://www.w3.org/TR/json-ld/) and [schema.org](https://schema.org).
 
 ## Stable
 
@@ -10,7 +10,8 @@ The historical version of OPDS (1.x) is based on [Atom](https://tools.ietf.org/h
 
 ## Drafts
 
-- [See the list of active drafts](https://drafts.opds.io)
+- [OPDS 2.0](https://drafts.opds.io/opds-2.0)
+- [See all active drafts](https://drafts.opds.io#active)
 
 ## Previous releases
 
