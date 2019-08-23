@@ -1,6 +1,4 @@
-[![OPDS Logo](https://opds.io/img/logo.png)](https://opds.io)
-
-# OPDS Specifications
+# Specifications
 
 [OPDS (Open Publication Distribution System)](https://opds.io) is a family of specifications dedicated to the distribution of digital publications.
 

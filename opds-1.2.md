@@ -1,13 +1,3 @@
-[![OPDS Logo](https://opds.io/img/logo.png)](https://opds.io)
-
-<style>
-.rfc {
-    color: #d55;
-    font-variant: small-caps;
-    font-style: normal;
-}
-</style>
-
 # OPDS Catalog 1.2
 
 The Open Publication Distribution System (OPDS) Catalog format is a syndication format for electronic 
