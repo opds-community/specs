@@ -20,7 +20,7 @@ OPDS Catalogs use existing or emergent open standards and conventions, with a pr
 
 **Editors:**
 
-* Hadrien Gardeur ([Feedbooks](http://www.feedbooks.com))
+* Hadrien Gardeur
 * Leonard Richardson ([NYPL](https://www.nypl.org/))
 
 **Participate:**
