@@ -396,9 +396,9 @@ The following child elements are refined by this specification:
 
 ## 3. Search
 
-An OPDS Catalog <em class="rfc">may</em> provide a search facility through an [[OpenSearch](http://www.opensearch.org/Specifications/OpenSearch/1.1)] description document. 
+An OPDS Catalog <em class="rfc">may</em> provide a search facility through an [[OpenSearch](https://github.com/dewitt/opensearch/blob/master/opensearch-1-1-draft-6.md)] description document. 
 
-Links to [[OpenSearch](http://www.opensearch.org/Specifications/OpenSearch/1.1)] description documents <em class="rfc">must</em> use the `search` relation value and the `application/opensearchdescription+xml` media type as defined in the "Autodiscovery" section of the [[OpenSearch](http://www.opensearch.org/Specifications/OpenSearch/1.1)] specification.
+Links to [[OpenSearch](https://github.com/dewitt/opensearch/blob/master/opensearch-1-1-draft-6.md)] description documents <em class="rfc">must</em> use the `search` relation value and the `application/opensearchdescription+xml` media type as defined in the "Autodiscovery" section of the [[OpenSearch](https://github.com/dewitt/opensearch/blob/master/opensearch-1-1-draft-6.md)] specification.
 
 ```xml
 <link rel="search"
@@ -406,7 +406,7 @@ Links to [[OpenSearch](http://www.opensearch.org/Specifications/OpenSearch/1.1)]
       type="application/opensearchdescription+xml"/>
 ```
 
-In an [[OpenSearch](http://www.opensearch.org/Specifications/OpenSearch/1.1)] description document, the search interface <em class="rfc">must</em> use the media type associated to OPDS Catalogs:
+In an [[OpenSearch](https://github.com/dewitt/opensearch/blob/master/opensearch-1-1-draft-6.md)] description document, the search interface <em class="rfc">must</em> use the media type associated to OPDS Catalogs:
 
 ```xml
 <Url type="application/atom+xml;profile=opds-catalog;kind=acquisition"
@@ -420,12 +420,12 @@ An OPDS Catalog <em class="rfc">may</em> also provide more advanced possibilitie
 - `atom:title`
 
 
-OPDS Catalog Feed Documents <em class="rfc">may</em> include elements from the [[OpenSearch](http://www.opensearch.org/Specifications/OpenSearch/1.1)] namespace such as `opensearch:totalResults` or `opensearch:itemsPerPage` in [[OpenSearch](http://www.opensearch.org/Specifications/OpenSearch/1.1)] responses.
+OPDS Catalog Feed Documents <em class="rfc">may</em> include elements from the [[OpenSearch](https://github.com/dewitt/opensearch/blob/master/opensearch-1-1-draft-6.md)] namespace such as `opensearch:totalResults` or `opensearch:itemsPerPage` in [[OpenSearch](https://github.com/dewitt/opensearch/blob/master/opensearch-1-1-draft-6.md)] responses.
 
 
 **Open Search Description Document Example**
 
-In order to provide a search endpoint that supports both basic (keyword based) and advanced search, an OPDS Catalog could provide the following template in its [[OpenSearch](http://www.opensearch.org/Specifications/OpenSearch/1.1)] Description document:
+In order to provide a search endpoint that supports both basic (keyword based) and advanced search, an OPDS Catalog could provide the following template in its [[OpenSearch](https://github.com/dewitt/opensearch/blob/master/opensearch-1-1-draft-6.md)] Description document:
 
 ```xml
 <Url type="application/atom+xml;profile=opds-catalog"
@@ -957,7 +957,7 @@ Many OPDS Catalog clients operate in mobile environments, which may impose stric
 - [[DCTERMS](http://dublincore.org/documents/dcmi-terms/)] DCMI Usage Board, "DCMI Metadata Terms", January 2008.
 - [[ISO4217](http://www.iso.org/iso/en/prods-services/popstds/currencycodeslist.html)] "ISO 4217 currency and funds name and code elements", International Standard ISO 4217.
 - [[MIMEREG](https://tools.ietf.org/html/rfc4288)] Freed, N. and J. Klensin, "Media Type Specifications and Registration Procedures", BCP 13, RFC 4288, December 2005.
-- [[OpenSearch](http://www.opensearch.org/Specifications/OpenSearch/1.1)] Clinton D., "Open Search 1.1 Draft 4".
+- [[OpenSearch](https://github.com/dewitt/opensearch/blob/master/opensearch-1-1-draft-6.md)] Clinton D., "Open Search 1.1 Draft 6".
 - [[REC-xml](http://www.w3.org/TR/2006/REC-xml-20060816)] Yergeau, F., Paoli, J., Bray, T., Sperberg-McQueen?, C., and E. Maler, "Extensible Markup Language (XML) 1.0 (Fourth Edition)", World Wide Web Consortium Recommendation REC-xml-20060816, August 2006.
 - [[RFC2119](https://tools.ietf.org/html/rfc2119)] Bradner, S., "Key words for use in RFCs to Indicate Requirement Levels", BCP 14, RFC 2119, March 1997.
 - [[RFC2397](https://tools.ietf.org/html/rfc2397)] Masinter, L., "The 'data' URL scheme", RFC 2397, August 1998.
