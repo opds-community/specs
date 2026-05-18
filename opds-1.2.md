@@ -10,6 +10,10 @@ OPDS Catalogs use existing or emergent open standards and conventions, with a pr
 
 * November 11th, 2018
 
+**Latest version:**
+
+* [https://specs.opds.io/opds-2.0](https://specs.opds.io/opds-2.0)
+
 **This version:**
 
 * [https://specs.opds.io/opds-1.2](https://specs.opds.io/opds-1.2)
