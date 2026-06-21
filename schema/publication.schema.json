@@ -70,6 +70,7 @@
         "acquisition",
         "borrow",
         "buy",
+        "download",
         "preview",
         "subscribe",
         "http://opds-spec.org/acquisition",
